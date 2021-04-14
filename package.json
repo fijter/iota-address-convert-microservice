@@ -1,0 +1,24 @@
+{
+  "name": "iota-address-convert-microservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@iota/client": "^0.3.1",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fijter/iota-address-convert-microservice.git"
+  },
+  "author": "Dave de Fijter - IOTA Foundation",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/fijter/iota-address-convert-microservice/issues"
+  },
+  "homepage": "https://github.com/fijter/iota-address-convert-microservice#readme"
+}
